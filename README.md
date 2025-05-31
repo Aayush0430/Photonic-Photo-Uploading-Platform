@@ -1,6 +1,6 @@
 # Photonic-Photo-Uploading-Platform
 Photo uploading phatform built on Next.js
-Visit: <a href="https://photonic0.vercel.app/">photonic0.vercel.app</a>
+Visit: <a target="_blank" href="https://photonic0.vercel.app/">photonic0.vercel.app</a>
 ![image](https://github.com/user-attachments/assets/40a67c46-ab0e-4c85-9149-10e7c39aaa97)
 ![image](https://github.com/user-attachments/assets/f6d0bd02-16fe-4905-9e8a-91f5cd6175cb)
 ![image](https://github.com/user-attachments/assets/e6289155-80d8-4ec1-9701-d9e4ac9a3632)
